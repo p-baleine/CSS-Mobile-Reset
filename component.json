@@ -1,0 +1,8 @@
+{
+  "name": "CSS-Mobile-Reset",
+  "version": "0.0.1",
+  "repo": "p-baleine/CSS-Mobile-Reset",
+  "description": "Reset and Set the basic CSS for mobile phones.",
+  "keywords": ["css", "style", "mobile", "reset"],
+  "styles": ["CSS/mobile.css"]
+}
